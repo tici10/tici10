@@ -1,7 +1,16 @@
 <h1>Olá, Bem vindo(a)🔷🔹🔷 </h1>
 
+## Sobre mim
 
- ![22](https://github.com/user-attachments/assets/cf0ffdb4-468a-446a-a207-8f07a57e4fb2)
+- [x]  Atualmente estudando Engenharia de Software, e buscando ativamente <br>
+por conhecimento nessa área vasta de tecnologia.
+
+## Skills
+
+![httpsroomy-cobbler-289 notion site1974b2bfd42980bca789d33736bc4f7ev_1974b2bfd429819c844a000c10657749__1_-removebg-preview](https://github.com/user-attachments/assets/a32032a5-9cfe-4402-833e-260b17d5df2e) 
+
+
+
 
 
 <!--
