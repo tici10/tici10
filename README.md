@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - [x]  Atualmente estudando Engenharia de Software, e buscando ativamente <br>
-por conhecimento nessa área vasta de tecnologia.
+por conhecimento nessa vasta área de tecnologia.
 
 
 
